@@ -11,7 +11,7 @@ obj = {
 	}
 };
 
-$done({body: JSON.stringify(jkbTestTime)});
+$done({body: JSON.stringify(obj)});
 
 
 
