@@ -5,9 +5,9 @@ obj = {
 	"errcode": "BIS:10200",
 	"errmsg": null,
 	"data": {
-		"cacheDay": "20221208",
+		"cacheDay": "20221219",
 		"detResult": "阴性",
-		"afterTestTime": "1"
+		"afterTestTime": "2"
 	}
 };
 
