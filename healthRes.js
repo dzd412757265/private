@@ -7,7 +7,7 @@ obj = {
 	"data": {
 		"cacheDay": "20221219",
 		"detResult": "阴性",
-		"afterTestTime": "2"
+		"afterTestTime": 3
 	}
 };
 
